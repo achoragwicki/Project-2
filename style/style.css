@@ -9,11 +9,11 @@ body {
   padding-bottom: 4.00em;
   padding-right: 1.33em;
   padding-left: 1.33em;
-  background-color: rgb(255,165,0);
+  background-color: rgb(255,105,10);
 }
 
 header {
-  background-color: rgb(255,165,0);
+  background-color: rgb(255,205,200);
   color:black;
   text-align: center;
   border: 3.00px solid black;
@@ -21,7 +21,7 @@ header {
 
 h1 {
   font-size: 2.00em;
-  color: rgb(82,0,28);
+  color: rgb(255,105,10);
   text-align: center;
   line-height: 0.05em;
   padding-top: 0.05em;
